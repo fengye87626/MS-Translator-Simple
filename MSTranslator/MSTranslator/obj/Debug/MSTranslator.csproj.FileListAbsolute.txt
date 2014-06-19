@@ -1,0 +1,6 @@
+c:\users\jzcvqp\documents\visual studio 2013\Projects\MSTranslator\MSTranslator\bin\Debug\MSTranslator.exe.config
+c:\users\jzcvqp\documents\visual studio 2013\Projects\MSTranslator\MSTranslator\bin\Debug\MSTranslator.exe
+c:\users\jzcvqp\documents\visual studio 2013\Projects\MSTranslator\MSTranslator\bin\Debug\MSTranslator.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\MSTranslator\MSTranslator\bin\Debug\Newtonsoft.Json.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\MSTranslator\MSTranslator\obj\Debug\MSTranslator.exe
+c:\users\jzcvqp\documents\visual studio 2013\Projects\MSTranslator\MSTranslator\obj\Debug\MSTranslator.pdb
